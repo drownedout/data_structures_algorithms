@@ -1,6 +1,11 @@
 from typing import List
 
-"""Given an integer array, output all the unique pairs that add
+"""
+===============
+Pair Sum
+===============
+
+Given an integer array, output all the unique pairs that add
 up to the target sum.
 
 For example:
@@ -9,6 +14,8 @@ For example:
 Returns 2 pairs:
     (1, 3)
     (2, 2)
+
+Time Complexity: O(n)
 """
 
 
