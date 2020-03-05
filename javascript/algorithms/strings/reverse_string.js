@@ -6,7 +6,7 @@ characters
 **/
 
 
-function reverse_one(str) {
+function reverseOne(str) {
     // Turn 'str' into an array
     const arr = str.split('');
 
@@ -20,7 +20,7 @@ function reverse_one(str) {
 }
 
 
-function reverse_two(str) {
+function reverseTwo(str) {
   // Create an empty string called 'reversed'
   let reversed = '';
 
@@ -35,7 +35,7 @@ function reverse_two(str) {
 }
 
 
-function reverse_three(str) {
+function reverseThree(str) {
   // Turn 'str' into an array
   const arr = str.split('');
 
